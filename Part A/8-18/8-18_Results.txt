@@ -1,0 +1,25 @@
+For the example's video the time's results, 
+depending on block size variable, was the following:
+--------------------------------------------------------
+
+block_size = 32
+Time elapsed: 302.53726601600647s
+output video : block_size_32.avi
+
+--------------------------------------------------------
+
+block_size = 16
+Time elapsed: 308.84316658973694s
+output video : block_size_16.avi
+
+--------------------------------------------------------
+
+block_size = 8
+Time elapsed: 334.98504519462585s
+output video : block_size_8.avi
+
+--------------------------------------------------------
+
+block_size = 4
+Time elapsed: 410.90164709091187s
+output video : block_size_4.avi 
