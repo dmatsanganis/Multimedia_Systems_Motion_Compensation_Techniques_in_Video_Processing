@@ -32,3 +32,4 @@ def sad(first, second):
 			#S.A.D. is the sum of the absolute difference between the two frames
             sad += abs(int(first[i, j]) - int(second[i, j]))
     return sad
+
