@@ -38,6 +38,6 @@ def sad(first, second):
 
 
 #function responsible for the Entropy Calculation(Helped by scipy.stats library).
-def entropy_calculation(labels, base=None):
+def entropy_calculation(labels, base=None): #base = 2, for log2 calculations. 
   _,counts = np.unique(labels, return_counts=True)
   return entropy(counts, base=base)
