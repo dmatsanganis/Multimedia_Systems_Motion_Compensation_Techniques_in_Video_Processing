@@ -1,3 +1,4 @@
 # Multimedia_Systems
 Multimedia Systems's Course Projects. 
-[![Build Status](https://travis-ci.com/dimitrismatsanganis/Multimedia_Systems.svg?branch=master)](https://travis-ci.com/dimitrismatsanganis/Multimedia_Systems)
+
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with python">
