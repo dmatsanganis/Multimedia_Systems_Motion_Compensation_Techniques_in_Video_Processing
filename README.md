@@ -17,7 +17,7 @@ All calculations are performed using **Python**.
 ## Contributors
 
 - [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
-
+- [x] [Alex Skarpelos](https://github.com/alexhsog)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
