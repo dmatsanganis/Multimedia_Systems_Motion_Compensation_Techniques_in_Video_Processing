@@ -14,6 +14,8 @@ The project is divided into two main parts:
 
 All calculations are performed using **Python**.
 
+![showcase](https://github.com/dmatsanganis/Multimedia_Systems-_Motion_Compensation_Techniques_in_Video_Processing/assets/34712449/95794d9b-cd4a-46e3-9fbc-6f5f3c4d2050)
+
 ## Contributors
 
 - [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
